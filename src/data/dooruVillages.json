@@ -1,0 +1,344 @@
+[
+    {
+        "villageName": "Badhar Moona",
+        "censusCode": "003860",
+        "geographicalArea": 0.58,
+        "population": 910
+    },
+    {
+        "villageName": "Bata Gund",
+        "censusCode": "003865",
+        "geographicalArea": 7.87,
+        "population": 8400
+    },
+    {
+        "villageName": "Bona Gund",
+        "censusCode": "003842",
+        "geographicalArea": 1.32,
+        "population": 1609
+    },
+    {
+        "villageName": "Bragam",
+        "censusCode": "003853",
+        "geographicalArea": 1.96,
+        "population": 2629
+    },
+    {
+        "villageName": "Bronthnu",
+        "censusCode": "003829",
+        "geographicalArea": 0.88,
+        "population": 452
+    },
+    {
+        "villageName": "Chak Path",
+        "censusCode": "003839",
+        "geographicalArea": 0.95,
+        "population": 1497
+    },
+    {
+        "villageName": "Changoo",
+        "censusCode": "003859",
+        "geographicalArea": 1.22,
+        "population": 2274
+    },
+    {
+        "villageName": "Checki Wan Gund",
+        "censusCode": "003855",
+        "geographicalArea": 1.33,
+        "population": 3555
+    },
+    {
+        "villageName": "Chhohan",
+        "censusCode": "003873",
+        "geographicalArea": 0.63,
+        "population": 655
+    },
+    {
+        "villageName": "Dalwach Gagas Gund",
+        "censusCode": "003845",
+        "geographicalArea": 1.23,
+        "population": 1761
+    },
+    {
+        "villageName": "Drien Drobdara",
+        "censusCode": "003822",
+        "geographicalArea": 1.56,
+        "population": 2475
+    },
+    {
+        "villageName": "Forest Block",
+        "censusCode": "003877",
+        "geographicalArea": null,
+        "population": 5102
+    },
+    {
+        "villageName": "Gassi Pora",
+        "censusCode": "003830",
+        "geographicalArea": 0.95,
+        "population": null
+    },
+    {
+        "villageName": "Gawas",
+        "censusCode": "003871",
+        "geographicalArea": 1.58,
+        "population": 2613
+    },
+    {
+        "villageName": "Gochan",
+        "censusCode": "003854",
+        "geographicalArea": 0.31,
+        "population": 1120
+    },
+    {
+        "villageName": "Gund Now Roze",
+        "censusCode": "003837",
+        "geographicalArea": 1.1,
+        "population": 1081
+    },
+    {
+        "villageName": "Hakura Badas Gam",
+        "censusCode": "003833",
+        "geographicalArea": 6.21,
+        "population": 9088
+    },
+    {
+        "villageName": "Halsidar",
+        "censusCode": "003870",
+        "geographicalArea": 2.42,
+        "population": 3722
+    },
+    {
+        "villageName": "Hardu Dehrana",
+        "censusCode": "003835",
+        "geographicalArea": 2.75,
+        "population": 3099
+    },
+    {
+        "villageName": "Hari Gam",
+        "censusCode": "003846",
+        "geographicalArea": 0.19,
+        "population": 34
+    },
+    {
+        "villageName": "Hengi Pora",
+        "censusCode": "003876",
+        "geographicalArea": 1.13,
+        "population": 985
+    },
+    {
+        "villageName": "Hillar Shah Abad",
+        "censusCode": "003850",
+        "geographicalArea": 1.93,
+        "population": 2702
+    },
+    {
+        "villageName": "Hir Gawas",
+        "censusCode": "003872",
+        "geographicalArea": 1.18,
+        "population": 1535
+    },
+    {
+        "villageName": "Irote Damjan",
+        "censusCode": "003818",
+        "geographicalArea": 2.02,
+        "population": 2674
+    },
+    {
+        "villageName": "Kaprin",
+        "censusCode": "003875",
+        "geographicalArea": 1.89,
+        "population": 3646
+    },
+    {
+        "villageName": "Kewah",
+        "censusCode": "003848",
+        "geographicalArea": 1.37,
+        "population": 2586
+    },
+    {
+        "villageName": "Kishgund",
+        "censusCode": "003820",
+        "geographicalArea": 0.21,
+        "population": 449
+    },
+    {
+        "villageName": "Kriri Shah Abad",
+        "censusCode": "003843",
+        "geographicalArea": 1.63,
+        "population": 2704
+    },
+    {
+        "villageName": "Kuchey Pora",
+        "censusCode": "003823",
+        "geographicalArea": 0.25,
+        "population": 367
+    },
+    {
+        "villageName": "Lewodra",
+        "censusCode": "003825",
+        "geographicalArea": 0.73,
+        "population": 977
+    },
+    {
+        "villageName": "Lok Bawan Larki Pora",
+        "censusCode": "003828",
+        "geographicalArea": 3.89,
+        "population": 5499
+    },
+    {
+        "villageName": "Mahmoodabad",
+        "censusCode": "003852",
+        "geographicalArea": 1.01,
+        "population": 2489
+    },
+    {
+        "villageName": "Mant Pora",
+        "censusCode": "003836",
+        "geographicalArea": 0.99,
+        "population": 1483
+    },
+    {
+        "villageName": "Manz Moh",
+        "censusCode": "003856",
+        "geographicalArea": 3.21,
+        "population": 5016
+    },
+    {
+        "villageName": "Mundah",
+        "censusCode": "003861",
+        "geographicalArea": 2.36,
+        "population": 3323
+    },
+    {
+        "villageName": "Naid Pora",
+        "censusCode": "003832",
+        "geographicalArea": 0.82,
+        "population": 1240
+    },
+    {
+        "villageName": "Now Gam Shah Abad",
+        "censusCode": "003866",
+        "geographicalArea": 3.97,
+        "population": 5751
+    },
+    {
+        "villageName": "Now Pora Shah Abad",
+        "censusCode": "003841",
+        "geographicalArea": 2.12,
+        "population": 3026
+    },
+    {
+        "villageName": "Nusoo Badra Gund",
+        "censusCode": "003821",
+        "geographicalArea": 2.38,
+        "population": 4667
+    },
+    {
+        "villageName": "Omoh",
+        "censusCode": "003864",
+        "geographicalArea": 1.42,
+        "population": 1718
+    },
+    {
+        "villageName": "Oojru",
+        "censusCode": "003857",
+        "geographicalArea": 0.54,
+        "population": 2467
+    },
+    {
+        "villageName": "Panzat Wan Pora",
+        "censusCode": "003827",
+        "geographicalArea": 5.95,
+        "population": 5687
+    },
+    {
+        "villageName": "Polia",
+        "censusCode": "003862",
+        "geographicalArea": 0.58,
+        "population": 1865
+    },
+    {
+        "villageName": "Prani Gam",
+        "censusCode": "003858",
+        "geographicalArea": 0.63,
+        "population": 596
+    },
+    {
+        "villageName": "Sabal Gam",
+        "censusCode": "003865",
+        "geographicalArea": 3.3,
+        "population": 4379
+    },
+    {
+        "villageName": "Saffron Area",
+        "censusCode": "003865",
+        "geographicalArea": 8.4,
+        "population": null
+    },
+    {
+        "villageName": "Sangam",
+        "censusCode": "003856",
+        "geographicalArea": 0.39,
+        "population": 685
+    },
+    {
+        "villageName": "Sawran",
+        "censusCode": "003861",
+        "geographicalArea": 0.72,
+        "population": 878
+    },
+    {
+        "villageName": "Shankhura",
+        "censusCode": "003849",
+        "geographicalArea": 2.27,
+        "population": 3362
+    },
+    {
+        "villageName": "Shanks Gund",
+        "censusCode": "003875",
+        "geographicalArea": 0.48,
+        "population": 673
+    },
+    {
+        "villageName": "Sogam",
+        "censusCode": "003860",
+        "geographicalArea": 1.47,
+        "population": 1951
+    },
+    {
+        "villageName": "Tatahar",
+        "censusCode": "003847",
+        "geographicalArea": 1.31,
+        "population": 891
+    },
+    {
+        "villageName": "Tehlar",
+        "censusCode": "003878",
+        "geographicalArea": 0.74,
+        "population": 548
+    },
+    {
+        "villageName": "Thrayun",
+        "censusCode": "003844",
+        "geographicalArea": 2.29,
+        "population": 2375
+    },
+    {
+        "villageName": "Togab",
+        "censusCode": "003838",
+        "geographicalArea": 2.42,
+        "population": 3076
+    },
+    {
+        "villageName": "Wadwan",
+        "censusCode": "003848",
+        "geographicalArea": 1.99,
+        "population": 3324
+    },
+    {
+        "villageName": "Wasan",
+        "censusCode": "003874",
+        "geographicalArea": 0.65,
+        "population": 763
+    }
+]
