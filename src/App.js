@@ -1,24 +1,16 @@
-// import React from 'react';
-// import VillageDirectory from './components/VillageDirectory';
-
-// const App = () => {
-//     return (
-//         <div>
-//             {/* <VillageDirectory /> */}
-//         </div>
-//     );
-// };
-
-// export default App;
-
 import React from 'react';
-import VillageList from './components/VillageList'; // Adjust the path as necessary
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import AnantnagDistrict from './components/AnantnagDistrict';
+import BijbeharaVillageList from './components/BijbeharaVillageList';
 
 function App() {
   return (
-    <div>
-      <VillageList />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<AnantnagDistrict />} />
+        <Route path="/villages/bijbehara" element={<BijbeharaVillageList />} />
+      </Routes>
+    </Router>
   );
 }
 
