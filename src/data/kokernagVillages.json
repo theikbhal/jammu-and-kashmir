@@ -1,0 +1,37 @@
+{
+    "taluk": "Kokernag",
+    "district": "Anantnag",
+    "state": "Jammu and Kashmir",
+    "description": "As per 2011 Census Data, 51 villages are in Kokernag Taluka of Anantnag, Jammu and Kashmir.",
+    "villages": [
+      {
+        "serialNumber": 1,
+        "villageName": "Addi Gam",
+        "censusCode": "003797",
+        "geographicalArea": 2.8,
+        "population": 3066
+      },
+      {
+        "serialNumber": 2,
+        "villageName": "Adeh Hall",
+        "censusCode": "003805",
+        "geographicalArea": 1.02,
+        "population": 2068
+      },
+      {
+        "serialNumber": 3,
+        "villageName": "Akin Gam",
+        "censusCode": "003768",
+        "geographicalArea": 3.82,
+        "population": 5007
+      },
+      {
+        "serialNumber": 51,
+        "villageName": "Watar Hall",
+        "censusCode": "003810",
+        "geographicalArea": 0.59,
+        "population": 773
+      }
+    ]
+  }
+  

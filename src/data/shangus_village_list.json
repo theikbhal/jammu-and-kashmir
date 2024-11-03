@@ -1,0 +1,177 @@
+[
+  {
+    "serialNumber": "1",
+    "villageName": "Aho Paisan",
+    "censusCode": "003746",
+    "geographicalArea": "2.82",
+    "population": "2721"
+  },
+  {
+    "serialNumber": "2",
+    "villageName": "Andoora",
+    "censusCode": "003764",
+    "geographicalArea": "1.0",
+    "population": "1462"
+  },
+  {
+    "serialNumber": "3",
+    "villageName": "Bimar Narsar",
+    "censusCode": "003748",
+    "geographicalArea": "2.21",
+    "population": "1476"
+  },
+  {
+    "serialNumber": "4",
+    "villageName": "Brah",
+    "censusCode": "003744",
+    "geographicalArea": "4.36",
+    "population": "2966"
+  },
+  {
+    "serialNumber": "5",
+    "villageName": "Chakil Pora",
+    "censusCode": "003749",
+    "geographicalArea": "2.83",
+    "population": "4052"
+  },
+  {
+    "serialNumber": "6",
+    "villageName": "Chera Pora",
+    "censusCode": "003753",
+    "geographicalArea": "1.59",
+    "population": "2754"
+  },
+  {
+    "serialNumber": "7",
+    "villageName": "Chhatar Gul",
+    "censusCode": "003747",
+    "geographicalArea": "5.98",
+    "population": "6345"
+  },
+  {
+    "serialNumber": "8",
+    "villageName": "Chogam",
+    "censusCode": "003752",
+    "geographicalArea": "1.49",
+    "population": "2206"
+  },
+  {
+    "serialNumber": "9",
+    "villageName": "Datho Nag Narin",
+    "censusCode": "003745",
+    "geographicalArea": "3.48",
+    "population": "3427"
+  },
+  {
+    "serialNumber": "10",
+    "villageName": "Khul Chohar",
+    "censusCode": "003741",
+    "geographicalArea": "1.31",
+    "population": "1785"
+  },
+  {
+    "serialNumber": "11",
+    "villageName": "Kot Hair",
+    "censusCode": "003762",
+    "geographicalArea": "3.52",
+    "population": "3593"
+  },
+  {
+    "serialNumber": "12",
+    "villageName": "Kradi",
+    "censusCode": "003742",
+    "geographicalArea": "1.95",
+    "population": "2087"
+  },
+  {
+    "serialNumber": "13",
+    "villageName": "Kriri",
+    "censusCode": "003756",
+    "geographicalArea": "1.24",
+    "population": "1617"
+  },
+  {
+    "serialNumber": "14",
+    "villageName": "Nowgam Kothar",
+    "censusCode": "003760",
+    "geographicalArea": "4.22",
+    "population": "5682"
+  },
+  {
+    "serialNumber": "15",
+    "villageName": "Ogje Balan",
+    "censusCode": "003763",
+    "geographicalArea": "0.6",
+    "population": "793"
+  },
+  {
+    "serialNumber": "16",
+    "villageName": "Rakhi Brah",
+    "censusCode": "003743",
+    "geographicalArea": "3.31",
+    "population": "2499"
+  },
+  {
+    "serialNumber": "17",
+    "villageName": "Reni Pora",
+    "censusCode": "003740",
+    "geographicalArea": "2.06",
+    "population": "3509"
+  },
+  {
+    "serialNumber": "18",
+    "villageName": "Samb Rana",
+    "censusCode": "003761",
+    "geographicalArea": "0.95",
+    "population": "1077"
+  },
+  {
+    "serialNumber": "19",
+    "villageName": "Sheikh Gund",
+    "censusCode": "003759",
+    "geographicalArea": "0.62",
+    "population": "970"
+  },
+  {
+    "serialNumber": "20",
+    "villageName": "Sheikh Pora",
+    "censusCode": "003754",
+    "geographicalArea": "1.15",
+    "population": "2253"
+  },
+  {
+    "serialNumber": "21",
+    "villageName": "Sher Gund",
+    "censusCode": "003755",
+    "geographicalArea": "1.23",
+    "population": "1563"
+  },
+  {
+    "serialNumber": "22",
+    "villageName": "Thim Ran",
+    "censusCode": "003750",
+    "geographicalArea": "0.48",
+    "population": "431"
+  },
+  {
+    "serialNumber": "23",
+    "villageName": "Tunj Mulla",
+    "censusCode": "003751",
+    "geographicalArea": "0.82",
+    "population": "857"
+  },
+  {
+    "serialNumber": "24",
+    "villageName": "Uttarsoo",
+    "censusCode": "003757",
+    "geographicalArea": "6.24",
+    "population": "8725"
+  },
+  {
+    "serialNumber": "25",
+    "villageName": "Van Gam",
+    "censusCode": "003758",
+    "geographicalArea": "1.53",
+    "population": "1378"
+  }
+]

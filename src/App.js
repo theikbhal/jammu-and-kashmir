@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import AnantnagDistrict from './components/AnantnagDistrict';
 // import BijbeharaVillageList from './components/BijbeharaVillageList';
 import BijbeharaVillageList from './components/v2/BijbeharaVillageList';
+import TalukVillageList from './components/TalukVillageList';
+import kokernagVillages from './data/kokernagVillages.json';
 
 function App() {
   return (
@@ -11,6 +13,7 @@ function App() {
         <Route path="/" element={<AnantnagDistrict />} />
         {/* <Route path="/villages/bijbehara" element={<BijbeharaVillageList />} /> */}
         <Route path="/villages/bijbehara" element={<BijbeharaVillageList />} />
+        <Route path="/villages/kokernag" render={() => <TalukVillageList villages={kokernagVillages.villages} />} />
       </Routes>
     </Router>
   );

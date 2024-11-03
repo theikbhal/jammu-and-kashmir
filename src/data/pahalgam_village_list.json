@@ -1,0 +1,464 @@
+[
+  {
+    "serialNumber": "1",
+    "villageName": "Adlash Magam",
+    "censusCode": "003578",
+    "geographicalArea": "1.98",
+    "population": "1953"
+  },
+  {
+    "serialNumber": "2",
+    "villageName": "Ainu Brai",
+    "censusCode": "003546",
+    "geographicalArea": "2.65",
+    "population": "2213"
+  },
+  {
+    "serialNumber": "3",
+    "villageName": "Amar Wagar",
+    "censusCode": "003544",
+    "geographicalArea": "2.65",
+    "population": "2313"
+  },
+  {
+    "serialNumber": "4",
+    "villageName": "Arow",
+    "censusCode": "003517",
+    "geographicalArea": "1.04",
+    "population": "638"
+  },
+  {
+    "serialNumber": "5",
+    "villageName": "Awoora",
+    "censusCode": "003526",
+    "geographicalArea": "0.7",
+    "population": "962"
+  },
+  {
+    "serialNumber": "6",
+    "villageName": "Badaran",
+    "censusCode": "003552",
+    "geographicalArea": "0.19",
+    "population": "355"
+  },
+  {
+    "serialNumber": "7",
+    "villageName": "Bedigam",
+    "censusCode": "003559",
+    "geographicalArea": "0.91",
+    "population": "468"
+  },
+  {
+    "serialNumber": "8",
+    "villageName": "Bot - Kote",
+    "censusCode": "003524",
+    "geographicalArea": "1.82",
+    "population": "2876"
+  },
+  {
+    "serialNumber": "9",
+    "villageName": "Bot Kote Gujran",
+    "censusCode": "003531",
+    "geographicalArea": "0.58",
+    "population": "751"
+  },
+  {
+    "serialNumber": "10",
+    "villageName": "Chandri Gam",
+    "censusCode": "003569",
+    "geographicalArea": "1.73",
+    "population": "1107"
+  },
+  {
+    "serialNumber": "11",
+    "villageName": "Chatrasoo Badroo",
+    "censusCode": "003554",
+    "geographicalArea": "2.46",
+    "population": "3007"
+  },
+  {
+    "serialNumber": "12",
+    "villageName": "Chhani Gam",
+    "censusCode": "003562",
+    "geographicalArea": "1.11",
+    "population": "602"
+  },
+  {
+    "serialNumber": "13",
+    "villageName": "Chrari Gam",
+    "censusCode": "003533",
+    "geographicalArea": "1.25",
+    "population": "916"
+  },
+  {
+    "serialNumber": "14",
+    "villageName": "Dachee Gam",
+    "censusCode": "003555",
+    "geographicalArea": "0.6",
+    "population": "308"
+  },
+  {
+    "serialNumber": "15",
+    "villageName": "Dadran Khandi Pora",
+    "censusCode": "003564",
+    "geographicalArea": "0.92",
+    "population": "1097"
+  },
+  {
+    "serialNumber": "16",
+    "villageName": "Dehwathu",
+    "censusCode": "003528",
+    "geographicalArea": "0.9",
+    "population": "1241"
+  },
+  {
+    "serialNumber": "17",
+    "villageName": "Diaroo",
+    "censusCode": "003550",
+    "geographicalArea": "0.79",
+    "population": "636"
+  },
+  {
+    "serialNumber": "18",
+    "villageName": "Dirhama",
+    "censusCode": "003580",
+    "geographicalArea": "0.83",
+    "population": "986"
+  },
+  {
+    "serialNumber": "19",
+    "villageName": "Forest Block",
+    "censusCode": "003582",
+    "geographicalArea": "",
+    "population": "9402"
+  },
+  {
+    "serialNumber": "20",
+    "villageName": "Fraslana",
+    "censusCode": "003520",
+    "geographicalArea": "1.08",
+    "population": "812"
+  },
+  {
+    "serialNumber": "21",
+    "villageName": "Gansh Pora",
+    "censusCode": "003539",
+    "geographicalArea": "1.35",
+    "population": "1058"
+  },
+  {
+    "serialNumber": "22",
+    "villageName": "Grand Aish ( Aishmuquam)",
+    "censusCode": "003545",
+    "geographicalArea": "3.57",
+    "population": "927"
+  },
+  {
+    "serialNumber": "23",
+    "villageName": "Gundi Siligam",
+    "censusCode": "003556",
+    "geographicalArea": "0.24",
+    "population": "165"
+  },
+  {
+    "serialNumber": "24",
+    "villageName": "Hangal Pahoo",
+    "censusCode": "003566",
+    "geographicalArea": "0.83",
+    "population": "1038"
+  },
+  {
+    "serialNumber": "25",
+    "villageName": "Hanoman Pora",
+    "censusCode": "003577",
+    "geographicalArea": "0.15",
+    "population": "239"
+  },
+  {
+    "serialNumber": "26",
+    "villageName": "Hapat Nar",
+    "censusCode": "003565",
+    "geographicalArea": "3.12",
+    "population": "4060"
+  },
+  {
+    "serialNumber": "27",
+    "villageName": "Hardu Kichroo",
+    "censusCode": "003540",
+    "geographicalArea": "1.41",
+    "population": "1496"
+  },
+  {
+    "serialNumber": "28",
+    "villageName": "Hardu Kithal Sofi Pora",
+    "censusCode": "003535",
+    "geographicalArea": "3.39",
+    "population": "3127"
+  },
+  {
+    "serialNumber": "29",
+    "villageName": "Hassan Noor",
+    "censusCode": "003570",
+    "geographicalArea": "3.11",
+    "population": "1462"
+  },
+  {
+    "serialNumber": "30",
+    "villageName": "Ichi Nar",
+    "censusCode": "003547",
+    "geographicalArea": "1.22",
+    "population": "1226"
+  },
+  {
+    "serialNumber": "31",
+    "villageName": "Jummoh",
+    "censusCode": "003551",
+    "geographicalArea": "1.55",
+    "population": "556"
+  },
+  {
+    "serialNumber": "32",
+    "villageName": "Kanz Gam",
+    "censusCode": "003541",
+    "geographicalArea": "0.48",
+    "population": ""
+  },
+  {
+    "serialNumber": "33",
+    "villageName": "Karshn Gam",
+    "censusCode": "003558",
+    "geographicalArea": "1.82",
+    "population": "1321"
+  },
+  {
+    "serialNumber": "34",
+    "villageName": "Kathsu",
+    "censusCode": "003553",
+    "geographicalArea": "3.35",
+    "population": "3516"
+  },
+  {
+    "serialNumber": "35",
+    "villageName": "Khai Yar",
+    "censusCode": "003567",
+    "geographicalArea": "2.43",
+    "population": "2247"
+  },
+  {
+    "serialNumber": "36",
+    "villageName": "Kohilangoojran",
+    "censusCode": "003523",
+    "geographicalArea": "0.77",
+    "population": "951"
+  },
+  {
+    "serialNumber": "37",
+    "villageName": "Kular",
+    "censusCode": "003534",
+    "geographicalArea": "2.85",
+    "population": "4052"
+  },
+  {
+    "serialNumber": "38",
+    "villageName": "Lari",
+    "censusCode": "003525",
+    "geographicalArea": "1.26",
+    "population": "1309"
+  },
+  {
+    "serialNumber": "39",
+    "villageName": "Lari Pora",
+    "censusCode": "003519",
+    "geographicalArea": "2.7",
+    "population": "2216"
+  },
+  {
+    "serialNumber": "40",
+    "villageName": "Lehan Dajan",
+    "censusCode": "003536",
+    "geographicalArea": "1.76",
+    "population": "2086"
+  },
+  {
+    "serialNumber": "41",
+    "villageName": "Lewar",
+    "censusCode": "003543",
+    "geographicalArea": "2.42",
+    "population": "2903"
+  },
+  {
+    "serialNumber": "42",
+    "villageName": "Lidroo",
+    "censusCode": "003522",
+    "geographicalArea": "1.11",
+    "population": "1898"
+  },
+  {
+    "serialNumber": "43",
+    "villageName": "Logri Pora",
+    "censusCode": "003549",
+    "geographicalArea": "3.04",
+    "population": "2524"
+  },
+  {
+    "serialNumber": "44",
+    "villageName": "Malik Gund",
+    "censusCode": "003560",
+    "geographicalArea": "0.32",
+    "population": "242"
+  },
+  {
+    "serialNumber": "45",
+    "villageName": "Mandlana",
+    "censusCode": "003518",
+    "geographicalArea": "0.5",
+    "population": "394"
+  },
+  {
+    "serialNumber": "46",
+    "villageName": "Manzi Gam",
+    "censusCode": "003561",
+    "geographicalArea": "0.85",
+    "population": "1165"
+  },
+  {
+    "serialNumber": "47",
+    "villageName": "Mowrah",
+    "censusCode": "003529",
+    "geographicalArea": "1.25",
+    "population": "1077"
+  },
+  {
+    "serialNumber": "48",
+    "villageName": "Nalla Awoora",
+    "censusCode": "003527",
+    "geographicalArea": "0.82",
+    "population": "774"
+  },
+  {
+    "serialNumber": "49",
+    "villageName": "Now Gam",
+    "censusCode": "003571",
+    "geographicalArea": "0.53",
+    "population": "398"
+  },
+  {
+    "serialNumber": "50",
+    "villageName": "Peth Nambal",
+    "censusCode": "003581",
+    "geographicalArea": "1.24",
+    "population": "1393"
+  },
+  {
+    "serialNumber": "51",
+    "villageName": "Rakhi Chandi Pora",
+    "censusCode": "003572",
+    "geographicalArea": "0.35",
+    "population": "700"
+  },
+  {
+    "serialNumber": "52",
+    "villageName": "Sakhras",
+    "censusCode": "003575",
+    "geographicalArea": "2.01",
+    "population": "1612"
+  },
+  {
+    "serialNumber": "53",
+    "villageName": "Salar",
+    "censusCode": "003542",
+    "geographicalArea": "9.98",
+    "population": "9151"
+  },
+  {
+    "serialNumber": "54",
+    "villageName": "Shum Hall",
+    "censusCode": "003563",
+    "geographicalArea": "2.03",
+    "population": "1051"
+  },
+  {
+    "serialNumber": "55",
+    "villageName": "Sili Gam",
+    "censusCode": "003574",
+    "geographicalArea": "1.71",
+    "population": "1911"
+  },
+  {
+    "serialNumber": "56",
+    "villageName": "Singh Pora",
+    "censusCode": "003573",
+    "geographicalArea": "0.87",
+    "population": "1023"
+  },
+  {
+    "serialNumber": "57",
+    "villageName": "Siri Gofwara",
+    "censusCode": "003576",
+    "geographicalArea": "2.0",
+    "population": "2233"
+  },
+  {
+    "serialNumber": "58",
+    "villageName": "Srangsoo",
+    "censusCode": "003557",
+    "geographicalArea": "1.22",
+    "population": "660"
+  },
+  {
+    "serialNumber": "59",
+    "villageName": "Srechhan",
+    "censusCode": "003530",
+    "geographicalArea": "0.55",
+    "population": "491"
+  },
+  {
+    "serialNumber": "60",
+    "villageName": "Trail",
+    "censusCode": "003579",
+    "geographicalArea": "1.93",
+    "population": "702"
+  },
+  {
+    "serialNumber": "61",
+    "villageName": "Vir Siran",
+    "censusCode": "003521",
+    "geographicalArea": "1.02",
+    "population": "1218"
+  },
+  {
+    "serialNumber": "62",
+    "villageName": "Wahdan",
+    "censusCode": "003538",
+    "geographicalArea": "1.14",
+    "population": "1223"
+  },
+  {
+    "serialNumber": "63",
+    "villageName": "Wajoora",
+    "censusCode": "003548",
+    "geographicalArea": "0.97",
+    "population": "966"
+  },
+  {
+    "serialNumber": "64",
+    "villageName": "Wularama",
+    "censusCode": "003537",
+    "geographicalArea": "1.84",
+    "population": "1748"
+  },
+  {
+    "serialNumber": "65",
+    "villageName": "Yal",
+    "censusCode": "003568",
+    "geographicalArea": "0.43",
+    "population": "444"
+  },
+  {
+    "serialNumber": "66",
+    "villageName": "Yanier",
+    "censusCode": "003532",
+    "geographicalArea": "1.23",
+    "population": "505"
+  }
+]

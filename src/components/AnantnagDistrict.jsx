@@ -63,7 +63,12 @@ const AnantnagDistrict = () => {
             </tr>
             <tr>
               <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-700">4</td>
-              <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-700">Kokernag</td>
+              <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-700">
+              <Link to="/villages/kokernag" className="text-blue-500 hover:underline">
+              Kokernag
+                </Link>
+              </td>
+              
               <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-700">00057</td>
               <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-700">51</td>
               <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-700">167159</td>

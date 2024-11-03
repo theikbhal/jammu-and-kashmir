@@ -1,0 +1,359 @@
+[
+  {
+    "serialNumber": "1",
+    "villageName": "Addi Gam",
+    "censusCode": "003797",
+    "geographicalArea": "2.8",
+    "population": "3066"
+  },
+  {
+    "serialNumber": "2",
+    "villageName": "Adeh Hall",
+    "censusCode": "003805",
+    "geographicalArea": "1.02",
+    "population": "2068"
+  },
+  {
+    "serialNumber": "3",
+    "villageName": "Akin Gam",
+    "censusCode": "003768",
+    "geographicalArea": "3.82",
+    "population": "5007"
+  },
+  {
+    "serialNumber": "4",
+    "villageName": "Badhi Har",
+    "censusCode": "003803",
+    "geographicalArea": "1.97",
+    "population": "2540"
+  },
+  {
+    "serialNumber": "5",
+    "villageName": "Bahali",
+    "censusCode": "003772",
+    "geographicalArea": "1.07",
+    "population": "1759"
+  },
+  {
+    "serialNumber": "6",
+    "villageName": "Bidder Hayat Pora",
+    "censusCode": "003779",
+    "geographicalArea": "0.75",
+    "population": "516"
+  },
+  {
+    "serialNumber": "7",
+    "villageName": "Bindoo Zalan Gam",
+    "censusCode": "003798",
+    "geographicalArea": "0.84",
+    "population": "3004"
+  },
+  {
+    "serialNumber": "8",
+    "villageName": "Booch",
+    "censusCode": "003773",
+    "geographicalArea": "1.39",
+    "population": "1842"
+  },
+  {
+    "serialNumber": "9",
+    "villageName": "Cheri Tanzi (Dawood Pora)",
+    "censusCode": "003801",
+    "geographicalArea": "0.86",
+    "population": "1051"
+  },
+  {
+    "serialNumber": "10",
+    "villageName": "Dam Hall",
+    "censusCode": "003765",
+    "geographicalArea": "2.44",
+    "population": "2860"
+  },
+  {
+    "serialNumber": "11",
+    "villageName": "Dan Veth Pora",
+    "censusCode": "003776",
+    "geographicalArea": "0.36",
+    "population": "1250"
+  },
+  {
+    "serialNumber": "12",
+    "villageName": "Dandi Pora",
+    "censusCode": "003804",
+    "geographicalArea": "2.37",
+    "population": "5221"
+  },
+  {
+    "serialNumber": "13",
+    "villageName": "Desu Now Bugh",
+    "censusCode": "003792",
+    "geographicalArea": "2.93",
+    "population": "4373"
+  },
+  {
+    "serialNumber": "14",
+    "villageName": "Deval Gam",
+    "censusCode": "003796",
+    "geographicalArea": "7.45",
+    "population": "12600"
+  },
+  {
+    "serialNumber": "15",
+    "villageName": "Forest Block",
+    "censusCode": "003815",
+    "geographicalArea": "",
+    "population": "11344"
+  },
+  {
+    "serialNumber": "16",
+    "villageName": "Gad Wail",
+    "censusCode": "003802",
+    "geographicalArea": "1.8",
+    "population": "1910"
+  },
+  {
+    "serialNumber": "17",
+    "villageName": "Gadool Ahlan",
+    "censusCode": "003808",
+    "geographicalArea": "6.9",
+    "population": "12540"
+  },
+  {
+    "serialNumber": "18",
+    "villageName": "Gaw Ran",
+    "censusCode": "003789",
+    "geographicalArea": "0.9",
+    "population": "1412"
+  },
+  {
+    "serialNumber": "19",
+    "villageName": "Gee Boom",
+    "censusCode": "003809",
+    "geographicalArea": "0.36",
+    "population": "349"
+  },
+  {
+    "serialNumber": "20",
+    "villageName": "Guri Draman",
+    "censusCode": "003786",
+    "geographicalArea": "2.63",
+    "population": "3239"
+  },
+  {
+    "serialNumber": "21",
+    "villageName": "Hala Pora",
+    "censusCode": "003806",
+    "geographicalArea": "0.73",
+    "population": "1578"
+  },
+  {
+    "serialNumber": "22",
+    "villageName": "Hard Pora",
+    "censusCode": "003767",
+    "geographicalArea": "1.63",
+    "population": "2227"
+  },
+  {
+    "serialNumber": "23",
+    "villageName": "Hillar Arhama",
+    "censusCode": "003769",
+    "geographicalArea": "5.0",
+    "population": "5891"
+  },
+  {
+    "serialNumber": "24",
+    "villageName": "Iqbal Pora(Kharatti)",
+    "censusCode": "003793",
+    "geographicalArea": "2.68",
+    "population": "3341"
+  },
+  {
+    "serialNumber": "25",
+    "villageName": "Irkamoo",
+    "censusCode": "003780",
+    "geographicalArea": "0.77",
+    "population": "1079"
+  },
+  {
+    "serialNumber": "26",
+    "villageName": "Kandi Warin",
+    "censusCode": "003775",
+    "geographicalArea": "3.85",
+    "population": "2679"
+  },
+  {
+    "serialNumber": "27",
+    "villageName": "Kehar Pora",
+    "censusCode": "003784",
+    "geographicalArea": "3.01",
+    "population": "2561"
+  },
+  {
+    "serialNumber": "28",
+    "villageName": "Khal Har",
+    "censusCode": "003771",
+    "geographicalArea": "0.75",
+    "population": "1536"
+  },
+  {
+    "serialNumber": "29",
+    "villageName": "Khara Pora",
+    "censusCode": "003783",
+    "geographicalArea": "3.06",
+    "population": "2784"
+  },
+  {
+    "serialNumber": "30",
+    "villageName": "Lar Noo",
+    "censusCode": "003794",
+    "geographicalArea": "3.95",
+    "population": "4066"
+  },
+  {
+    "serialNumber": "31",
+    "villageName": "Lisoo Bran Nar",
+    "censusCode": "003790",
+    "geographicalArea": "1.96",
+    "population": "2470"
+  },
+  {
+    "serialNumber": "32",
+    "villageName": "Lisser Chawal Gam",
+    "censusCode": "003812",
+    "geographicalArea": "1.66",
+    "population": "3276"
+  },
+  {
+    "serialNumber": "33",
+    "villageName": "Lohar Sanzi",
+    "censusCode": "003807",
+    "geographicalArea": "3.8",
+    "population": "3225"
+  },
+  {
+    "serialNumber": "34",
+    "villageName": "Mati Handoo",
+    "censusCode": "003788",
+    "geographicalArea": "1.9",
+    "population": "2909"
+  },
+  {
+    "serialNumber": "35",
+    "villageName": "Mohri Pora",
+    "censusCode": "003770",
+    "geographicalArea": "0.96",
+    "population": "1066"
+  },
+  {
+    "serialNumber": "36",
+    "villageName": "Nagam",
+    "censusCode": "003777",
+    "geographicalArea": "2.31",
+    "population": "3595"
+  },
+  {
+    "serialNumber": "37",
+    "villageName": "Nala Sund Brari",
+    "censusCode": "003800",
+    "geographicalArea": "3.65",
+    "population": "5378"
+  },
+  {
+    "serialNumber": "38",
+    "villageName": "Nar Sanger",
+    "censusCode": "003785",
+    "geographicalArea": "1.69",
+    "population": "1676"
+  },
+  {
+    "serialNumber": "39",
+    "villageName": "Naroo Pora",
+    "censusCode": "003778",
+    "geographicalArea": "4.59",
+    "population": "5499"
+  },
+  {
+    "serialNumber": "40",
+    "villageName": "Niamat Pora (Drawari)",
+    "censusCode": "003795",
+    "geographicalArea": "1.86",
+    "population": "1927"
+  },
+  {
+    "serialNumber": "41",
+    "villageName": "Now Bugh",
+    "censusCode": "003791",
+    "geographicalArea": "2.66",
+    "population": "3081"
+  },
+  {
+    "serialNumber": "42",
+    "villageName": "Oui Bamdoora",
+    "censusCode": "003813",
+    "geographicalArea": "3.54",
+    "population": "2940"
+  },
+  {
+    "serialNumber": "43",
+    "villageName": "Paniz Gam",
+    "censusCode": "003782",
+    "geographicalArea": "2.7",
+    "population": "3606"
+  },
+  {
+    "serialNumber": "44",
+    "villageName": "Rain Ather",
+    "censusCode": "003787",
+    "geographicalArea": "2.41",
+    "population": "3007"
+  },
+  {
+    "serialNumber": "45",
+    "villageName": "Rakh Lissar",
+    "censusCode": "003814",
+    "geographicalArea": "1.38",
+    "population": "98"
+  },
+  {
+    "serialNumber": "46",
+    "villageName": "Sagam",
+    "censusCode": "003774",
+    "geographicalArea": "6.28",
+    "population": "6221"
+  },
+  {
+    "serialNumber": "47",
+    "villageName": "Soaf Shalli",
+    "censusCode": "003781",
+    "geographicalArea": "6.31",
+    "population": "5394"
+  },
+  {
+    "serialNumber": "48",
+    "villageName": "Takia Magam",
+    "censusCode": "003799",
+    "geographicalArea": "3.13",
+    "population": "4831"
+  },
+  {
+    "serialNumber": "49",
+    "villageName": "Takiya Ahamad Shah",
+    "censusCode": "003811",
+    "geographicalArea": "0.25",
+    "population": "464"
+  },
+  {
+    "serialNumber": "50",
+    "villageName": "Umar Khar",
+    "censusCode": "003766",
+    "geographicalArea": "1.06",
+    "population": "30"
+  },
+  {
+    "serialNumber": "51",
+    "villageName": "Watar Hall",
+    "censusCode": "003810",
+    "geographicalArea": "0.59",
+    "population": "773"
+  }
+]

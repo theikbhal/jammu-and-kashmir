@@ -1,0 +1,604 @@
+[
+  {
+    "serialNumber": "1",
+    "villageName": "Akura",
+    "censusCode": "003657",
+    "geographicalArea": "3.82",
+    "population": "3048"
+  },
+  {
+    "serialNumber": "2",
+    "villageName": "Anz Walla",
+    "censusCode": "003664",
+    "geographicalArea": "1.85",
+    "population": "2960"
+  },
+  {
+    "serialNumber": "3",
+    "villageName": "Areh Bugh",
+    "censusCode": "003663",
+    "geographicalArea": "0.27",
+    "population": "425"
+  },
+  {
+    "serialNumber": "4",
+    "villageName": "Ari Gohal",
+    "censusCode": "003639",
+    "geographicalArea": "0.89",
+    "population": "1495"
+  },
+  {
+    "serialNumber": "5",
+    "villageName": "Arsoo",
+    "censusCode": "003672",
+    "geographicalArea": "0.69",
+    "population": "756"
+  },
+  {
+    "serialNumber": "6",
+    "villageName": "Bat Pora",
+    "censusCode": "003635",
+    "geographicalArea": "0.87",
+    "population": "375"
+  },
+  {
+    "serialNumber": "7",
+    "villageName": "Bomthan",
+    "censusCode": "003719",
+    "geographicalArea": "1.44",
+    "population": "2519"
+  },
+  {
+    "serialNumber": "8",
+    "villageName": "Bona Gund",
+    "censusCode": "003650",
+    "geographicalArea": "0.44",
+    "population": "784"
+  },
+  {
+    "serialNumber": "9",
+    "villageName": "Bona Nambal",
+    "censusCode": "003651",
+    "geographicalArea": "1.91",
+    "population": "4416"
+  },
+  {
+    "serialNumber": "10",
+    "villageName": "Brar Ani Gandan",
+    "censusCode": "003645",
+    "geographicalArea": "2.49",
+    "population": "2673"
+  },
+  {
+    "serialNumber": "11",
+    "villageName": "Brenti Bat Pora",
+    "censusCode": "003700",
+    "geographicalArea": "5.23",
+    "population": "5988"
+  },
+  {
+    "serialNumber": "12",
+    "villageName": "Chera Hama",
+    "censusCode": "003714",
+    "geographicalArea": "0.59",
+    "population": "1050"
+  },
+  {
+    "serialNumber": "13",
+    "villageName": "Chichiri Pora",
+    "censusCode": "003692",
+    "geographicalArea": "0.42",
+    "population": "832"
+  },
+  {
+    "serialNumber": "14",
+    "villageName": "Chithi Manzhama",
+    "censusCode": "003682",
+    "geographicalArea": "0.05",
+    "population": "295"
+  },
+  {
+    "serialNumber": "15",
+    "villageName": "Devi Pora",
+    "censusCode": "003669",
+    "geographicalArea": "2.4",
+    "population": "1509"
+  },
+  {
+    "serialNumber": "16",
+    "villageName": "Fateh Pora",
+    "censusCode": "003698",
+    "geographicalArea": "5.57",
+    "population": "6737"
+  },
+  {
+    "serialNumber": "17",
+    "villageName": "Fohar",
+    "censusCode": "003638",
+    "geographicalArea": "1.75",
+    "population": "1395"
+  },
+  {
+    "serialNumber": "18",
+    "villageName": "Forah",
+    "censusCode": "003717",
+    "geographicalArea": "1.78",
+    "population": "2532"
+  },
+  {
+    "serialNumber": "19",
+    "villageName": "Ganai Gund",
+    "censusCode": "003641",
+    "geographicalArea": "1.19",
+    "population": "1640"
+  },
+  {
+    "serialNumber": "20",
+    "villageName": "Ganoora",
+    "censusCode": "003695",
+    "geographicalArea": "0.98",
+    "population": "1360"
+  },
+  {
+    "serialNumber": "21",
+    "villageName": "Gopal Pora Kalan",
+    "censusCode": "003680",
+    "geographicalArea": "4.54",
+    "population": "4440"
+  },
+  {
+    "serialNumber": "22",
+    "villageName": "Gopal Pora Khurad",
+    "censusCode": "003681",
+    "geographicalArea": "2.83",
+    "population": "1820"
+  },
+  {
+    "serialNumber": "23",
+    "villageName": "Hardu Akar",
+    "censusCode": "003637",
+    "geographicalArea": "1.68",
+    "population": "2895"
+  },
+  {
+    "serialNumber": "24",
+    "villageName": "Hardu Shichan",
+    "censusCode": "003697",
+    "geographicalArea": "2.57",
+    "population": "3894"
+  },
+  {
+    "serialNumber": "25",
+    "villageName": "Hardu Toru",
+    "censusCode": "003673",
+    "geographicalArea": "2.33",
+    "population": "3398"
+  },
+  {
+    "serialNumber": "26",
+    "villageName": "Hugam",
+    "censusCode": "003653",
+    "geographicalArea": "2.46",
+    "population": "2337"
+  },
+  {
+    "serialNumber": "27",
+    "villageName": "Hutmarah",
+    "censusCode": "003649",
+    "geographicalArea": "2.72",
+    "population": "2885"
+  },
+  {
+    "serialNumber": "28",
+    "villageName": "Imoh",
+    "censusCode": "003701",
+    "geographicalArea": "2.8",
+    "population": "2777"
+  },
+  {
+    "serialNumber": "29",
+    "villageName": "Isoo",
+    "censusCode": "003671",
+    "geographicalArea": "1.19",
+    "population": "1955"
+  },
+  {
+    "serialNumber": "30",
+    "villageName": "Kadeh Pora",
+    "censusCode": "003679",
+    "geographicalArea": "0.88",
+    "population": "1393"
+  },
+  {
+    "serialNumber": "31",
+    "villageName": "Kamar",
+    "censusCode": "003690",
+    "geographicalArea": "2.15",
+    "population": "3265"
+  },
+  {
+    "serialNumber": "32",
+    "villageName": "Kangan Hal",
+    "censusCode": "003704",
+    "geographicalArea": "0.78",
+    "population": "2340"
+  },
+  {
+    "serialNumber": "33",
+    "villageName": "Kanji Gund",
+    "censusCode": "003707",
+    "geographicalArea": "0.59",
+    "population": "1240"
+  },
+  {
+    "serialNumber": "34",
+    "villageName": "Karewa Chithi Singh Pora",
+    "censusCode": "003668",
+    "geographicalArea": "3.09",
+    "population": "2940"
+  },
+  {
+    "serialNumber": "35",
+    "villageName": "Karewa Kangan Hal",
+    "censusCode": "003677",
+    "geographicalArea": "1.03",
+    "population": "67"
+  },
+  {
+    "serialNumber": "36",
+    "villageName": "Kawari Gam",
+    "censusCode": "003670",
+    "geographicalArea": "3.77",
+    "population": "2965"
+  },
+  {
+    "serialNumber": "37",
+    "villageName": "Kharman Ganish",
+    "censusCode": "003712",
+    "geographicalArea": "1.26",
+    "population": "1493"
+  },
+  {
+    "serialNumber": "38",
+    "villageName": "Kherah Bugh",
+    "censusCode": "003652",
+    "geographicalArea": "0.71",
+    "population": "1187"
+  },
+  {
+    "serialNumber": "39",
+    "villageName": "Khirman Tail Wani",
+    "censusCode": "003674",
+    "geographicalArea": "0.23",
+    "population": ""
+  },
+  {
+    "serialNumber": "40",
+    "villageName": "Khirmon Toru",
+    "censusCode": "003675",
+    "geographicalArea": "0.44",
+    "population": ""
+  },
+  {
+    "serialNumber": "41",
+    "villageName": "Krewa Brak Pora",
+    "censusCode": "003684",
+    "geographicalArea": "1.02",
+    "population": ""
+  },
+  {
+    "serialNumber": "42",
+    "villageName": "Krewa Rampur",
+    "censusCode": "003666",
+    "geographicalArea": "1.69",
+    "population": "2116"
+  },
+  {
+    "serialNumber": "43",
+    "villageName": "Lali Pora Mala Pora",
+    "censusCode": "003715",
+    "geographicalArea": "0.78",
+    "population": "1841"
+  },
+  {
+    "serialNumber": "44",
+    "villageName": "Lallan",
+    "censusCode": "003691",
+    "geographicalArea": "1.08",
+    "population": "2871"
+  },
+  {
+    "serialNumber": "45",
+    "villageName": "Laram Jangi Pora",
+    "censusCode": "003713",
+    "geographicalArea": "2.46",
+    "population": "5005"
+  },
+  {
+    "serialNumber": "46",
+    "villageName": "Magri Pora",
+    "censusCode": "003678",
+    "geographicalArea": "0.76",
+    "population": "1725"
+  },
+  {
+    "serialNumber": "47",
+    "villageName": "Manigam",
+    "censusCode": "003648",
+    "geographicalArea": "1.45",
+    "population": "1275"
+  },
+  {
+    "serialNumber": "48",
+    "villageName": "Mati Pora",
+    "censusCode": "003658",
+    "geographicalArea": "0.46",
+    "population": "495"
+  },
+  {
+    "serialNumber": "49",
+    "villageName": "Momin Hall",
+    "censusCode": "003656",
+    "geographicalArea": "0.6",
+    "population": "130"
+  },
+  {
+    "serialNumber": "50",
+    "villageName": "Moni Ward",
+    "censusCode": "003694",
+    "geographicalArea": "1.47",
+    "population": "3186"
+  },
+  {
+    "serialNumber": "51",
+    "villageName": "Mulsoo",
+    "censusCode": "003640",
+    "geographicalArea": "0.63",
+    "population": "552"
+  },
+  {
+    "serialNumber": "52",
+    "villageName": "Mush Khasa Rasool Khandi",
+    "censusCode": "003642",
+    "geographicalArea": "0.11",
+    "population": "63"
+  },
+  {
+    "serialNumber": "53",
+    "villageName": "Nanilang",
+    "censusCode": "003659",
+    "geographicalArea": "6.23",
+    "population": "8285"
+  },
+  {
+    "serialNumber": "54",
+    "villageName": "Naw Wathu",
+    "censusCode": "003716",
+    "geographicalArea": "0.17",
+    "population": "412"
+  },
+  {
+    "serialNumber": "55",
+    "villageName": "Nipor",
+    "censusCode": "003720",
+    "geographicalArea": "2.38",
+    "population": "3163"
+  },
+  {
+    "serialNumber": "56",
+    "villageName": "Now Bugh",
+    "censusCode": "003660",
+    "geographicalArea": "0.81",
+    "population": "1245"
+  },
+  {
+    "serialNumber": "57",
+    "villageName": "Now Pora Khover Para",
+    "censusCode": "003646",
+    "geographicalArea": "0.24",
+    "population": "177"
+  },
+  {
+    "serialNumber": "58",
+    "villageName": "Nun Wani",
+    "censusCode": "003683",
+    "geographicalArea": "1.08",
+    "population": "1699"
+  },
+  {
+    "serialNumber": "59",
+    "villageName": "Pai Bugh",
+    "censusCode": "003665",
+    "geographicalArea": "0.31",
+    "population": "904"
+  },
+  {
+    "serialNumber": "60",
+    "villageName": "Pal Pora",
+    "censusCode": "003699",
+    "geographicalArea": "0.53",
+    "population": "895"
+  },
+  {
+    "serialNumber": "61",
+    "villageName": "Panz Mulla",
+    "censusCode": "003644",
+    "geographicalArea": "1.18",
+    "population": "2286"
+  },
+  {
+    "serialNumber": "62",
+    "villageName": "Peth Bugh",
+    "censusCode": "003696",
+    "geographicalArea": "1.79",
+    "population": "2638"
+  },
+  {
+    "serialNumber": "63",
+    "villageName": "Peth Dial Gam",
+    "censusCode": "003688",
+    "geographicalArea": "1.92",
+    "population": "3615"
+  },
+  {
+    "serialNumber": "64",
+    "villageName": "Push Kriri",
+    "censusCode": "003654",
+    "geographicalArea": "2.41",
+    "population": "2348"
+  },
+  {
+    "serialNumber": "65",
+    "villageName": "Rakhi Now Bugh",
+    "censusCode": "003661",
+    "geographicalArea": "0.3",
+    "population": ""
+  },
+  {
+    "serialNumber": "66",
+    "villageName": "Rakhi Tail Wani",
+    "censusCode": "003703",
+    "geographicalArea": "2.02",
+    "population": "352"
+  },
+  {
+    "serialNumber": "67",
+    "villageName": "Ram Pora",
+    "censusCode": "003655",
+    "geographicalArea": "1.75",
+    "population": "261"
+  },
+  {
+    "serialNumber": "68",
+    "villageName": "Ranbir Pora",
+    "censusCode": "003667",
+    "geographicalArea": "7.94",
+    "population": "6721"
+  },
+  {
+    "serialNumber": "69",
+    "villageName": "Rohu",
+    "censusCode": "003693",
+    "geographicalArea": "0.95",
+    "population": "2083"
+  },
+  {
+    "serialNumber": "70",
+    "villageName": "Salia Ponchal Pora",
+    "censusCode": "003636",
+    "geographicalArea": "5.84",
+    "population": "5663"
+  },
+  {
+    "serialNumber": "71",
+    "villageName": "Sar Suna Anantnag",
+    "censusCode": "003709",
+    "geographicalArea": "0.84",
+    "population": "1149"
+  },
+  {
+    "serialNumber": "72",
+    "villageName": "Shalwan Pora",
+    "censusCode": "003711",
+    "geographicalArea": "1.19",
+    "population": "1502"
+  },
+  {
+    "serialNumber": "73",
+    "villageName": "Shamsi Pora",
+    "censusCode": "003705",
+    "geographicalArea": "2.1",
+    "population": "2911"
+  },
+  {
+    "serialNumber": "74",
+    "villageName": "Sifan",
+    "censusCode": "003662",
+    "geographicalArea": "0.86",
+    "population": "1438"
+  },
+  {
+    "serialNumber": "75",
+    "villageName": "Sofi Gund Bago Gund",
+    "censusCode": "003708",
+    "geographicalArea": "0.4",
+    "population": "874"
+  },
+  {
+    "serialNumber": "76",
+    "villageName": "Srundoo",
+    "censusCode": "003685",
+    "geographicalArea": "1.54",
+    "population": "1876"
+  },
+  {
+    "serialNumber": "77",
+    "villageName": "Tail Wani",
+    "censusCode": "003676",
+    "geographicalArea": "2.44",
+    "population": "4840"
+  },
+  {
+    "serialNumber": "78",
+    "villageName": "Tang Marg",
+    "censusCode": "003643",
+    "geographicalArea": "0.29",
+    "population": "414"
+  },
+  {
+    "serialNumber": "79",
+    "villageName": "Thaji Wara",
+    "censusCode": "003702",
+    "geographicalArea": "1.17",
+    "population": "1847"
+  },
+  {
+    "serialNumber": "80",
+    "villageName": "Turka Thachloo",
+    "censusCode": "003710",
+    "geographicalArea": "0.96",
+    "population": "1665"
+  },
+  {
+    "serialNumber": "81",
+    "villageName": "Ugjan",
+    "censusCode": "003689",
+    "geographicalArea": "0.43",
+    "population": "981"
+  },
+  {
+    "serialNumber": "82",
+    "villageName": "Vail Nag Bal",
+    "censusCode": "003647",
+    "geographicalArea": "1.53",
+    "population": "2313"
+  },
+  {
+    "serialNumber": "83",
+    "villageName": "Wani Hama",
+    "censusCode": "003687",
+    "geographicalArea": "1.06",
+    "population": "1899"
+  },
+  {
+    "serialNumber": "84",
+    "villageName": "Watari Gam",
+    "censusCode": "003686",
+    "geographicalArea": "1.0",
+    "population": "1235"
+  },
+  {
+    "serialNumber": "85",
+    "villageName": "Woran Hall",
+    "censusCode": "003706",
+    "geographicalArea": "3.07",
+    "population": "4688"
+  },
+  {
+    "serialNumber": "86",
+    "villageName": "Zodar",
+    "censusCode": "003718",
+    "geographicalArea": "0.85",
+    "population": "1812"
+  }
+]
