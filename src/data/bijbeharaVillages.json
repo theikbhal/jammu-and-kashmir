@@ -1,0 +1,288 @@
+{
+    "taluka": "Bijbehara",
+    "villages": [
+      {
+        "name": "Ader",
+        "censusCode": "003621",
+        "geographicalArea": 0.78,
+        "population": 1016
+      },
+      {
+        "name": "Aswara",
+        "censusCode": "003608",
+        "geographicalArea": 0.95,
+        "population": 992
+      },
+      {
+        "name": "Bander Pora",
+        "censusCode": "003604",
+        "geographicalArea": 0.91,
+        "population": 1562
+      },
+      {
+        "name": "Beya Warah",
+        "censusCode": "003592",
+        "geographicalArea": 2.74,
+        "population": 2553
+      },
+      {
+        "name": "Chini Gund",
+        "censusCode": "003605",
+        "geographicalArea": 0.46,
+        "population": 739
+      },
+      {
+        "name": "Chunda Pora",
+        "censusCode": "003606",
+        "geographicalArea": 1.08,
+        "population": 1735
+      },
+      {
+        "name": "Dari Gund",
+        "censusCode": "003591",
+        "geographicalArea": 1.6,
+        "population": 1318
+      },
+      {
+        "name": "Dupt Yar",
+        "censusCode": "003610",
+        "geographicalArea": 1.08,
+        "population": 1612
+      },
+      {
+        "name": "Gadhanji Pora (Zir Pora)",
+        "censusCode": "003618",
+        "geographicalArea": 4.06,
+        "population": 1351
+      },
+      {
+        "name": "Gantali Pora",
+        "censusCode": "003615",
+        "geographicalArea": 0.58,
+        "population": 713
+      },
+      {
+        "name": "Gari Seer",
+        "censusCode": "003614",
+        "geographicalArea": 1.39,
+        "population": 1700
+      },
+      {
+        "name": "Gori",
+        "censusCode": "003620",
+        "geographicalArea": 2.25,
+        "population": 3801
+      },
+      {
+        "name": "Gund Chel",
+        "censusCode": "003632",
+        "geographicalArea": 0.69,
+        "population": 1098
+      },
+      {
+        "name": "Gund Nasir",
+        "censusCode": "003627",
+        "geographicalArea": 0.29,
+        "population": 449
+      },
+      {
+        "name": "Gund Nowroze",
+        "censusCode": "003598",
+        "geographicalArea": 0.38,
+        "population": 677
+      },
+      {
+        "name": "Hamzeh Pora",
+        "censusCode": "003625",
+        "geographicalArea": 0.39,
+        "population": 406
+      },
+      {
+        "name": "Hati Gam",
+        "censusCode": "003589",
+        "geographicalArea": 3.12,
+        "population": 2308
+      },
+      {
+        "name": "Haussan Pora Bagh",
+        "censusCode": "003633",
+        "geographicalArea": 1.78,
+        "population": 2967
+      },
+      {
+        "name": "Hayar",
+        "censusCode": "003611",
+        "geographicalArea": 0.62,
+        "population": 473
+      },
+      {
+        "name": "Inder Mooni (Takiya Maqsood Shah)",
+        "censusCode": "003601",
+        "geographicalArea": 0.26,
+        "population": 346
+      },
+      {
+        "name": "Jabli Pora",
+        "censusCode": "003628",
+        "geographicalArea": 6.73,
+        "population": 7584
+      },
+      {
+        "name": "Kanalwan",
+        "censusCode": "003607",
+        "geographicalArea": 3.4,
+        "population": 3822
+      },
+      {
+        "name": "Kandi Pora",
+        "censusCode": "003600",
+        "geographicalArea": 1.4,
+        "population": 1197
+      },
+      {
+        "name": "Katu",
+        "censusCode": "003594",
+        "geographicalArea": 1.6,
+        "population": 1372
+      },
+      {
+        "name": "Khiram",
+        "censusCode": "003586",
+        "geographicalArea": 14.16,
+        "population": 9160
+      },
+      {
+        "name": "Khush Roi Kalan",
+        "censusCode": "003593",
+        "geographicalArea": 2.96,
+        "population": 2547
+      },
+      {
+        "name": "Kitriteng",
+        "censusCode": "003612",
+        "geographicalArea": 0.73,
+        "population": 1346
+      },
+      {
+        "name": "Krandi - Gam",
+        "censusCode": "003617",
+        "geographicalArea": 1.75,
+        "population": 2445
+      },
+      {
+        "name": "Mahind",
+        "censusCode": "003588",
+        "geographicalArea": 3.67,
+        "population": 2208
+      },
+      {
+        "name": "Marhama",
+        "censusCode": "003584",
+        "geographicalArea": 21.51,
+        "population": 15964
+      },
+      {
+        "name": "Meera Gund",
+        "censusCode": "003609",
+        "geographicalArea": 0.27,
+        "population": 116
+      },
+      {
+        "name": "Niyana Gund Baba Khalil",
+        "censusCode": "003622",
+        "geographicalArea": 1.69,
+        "population": 1759
+      },
+      {
+        "name": "Now Shehra",
+        "censusCode": "003587",
+        "geographicalArea": 2.26,
+        "population": 1788
+      },
+      {
+        "name": "Opzan",
+        "censusCode": "003602",
+        "geographicalArea": 4.41,
+        "population": 2727
+      },
+      {
+        "name": "Rakh Hassain Pora",
+        "censusCode": "003629",
+        "geographicalArea": 1.07,
+        "population": 244
+      },
+      {
+        "name": "Rakh Moman Dangit Pora",
+        "censusCode": "003630",
+        "geographicalArea": 3.04,
+        "population": 483
+      },
+      {
+        "name": "Rakhi Kitri Teng",
+        "censusCode": "003599",
+        "geographicalArea": 0.03,
+        "population": null
+      },
+      {
+        "name": "Sangam",
+        "censusCode": "003623",
+        "geographicalArea": 0.83,
+        "population": 974
+      },
+      {
+        "name": "Semithan",
+        "censusCode": "003626",
+        "geographicalArea": 4.65,
+        "population": 2213
+      },
+      {
+        "name": "Shala Gam",
+        "censusCode": "003596",
+        "geographicalArea": 3.14,
+        "population": 2247
+      },
+      {
+        "name": "Shiti Pora",
+        "censusCode": "003595",
+        "geographicalArea": 0.84,
+        "population": 487
+      },
+      {
+        "name": "Sir Hama",
+        "censusCode": "003585",
+        "geographicalArea": 7.86,
+        "population": 5960
+      },
+      {
+        "name": "Sither Satghar",
+        "censusCode": "003583",
+        "geographicalArea": 1.12,
+        "population": 1736
+      },
+      {
+        "name": "Sotki Pora",
+        "censusCode": "003603",
+        "geographicalArea": 1.95,
+        "population": 1465
+      },
+      {
+        "name": "Subhan Pahari",
+        "censusCode": "003634",
+        "geographicalArea": 1.4,
+        "population": 744
+      },
+      {
+        "name": "Takia Bal",
+        "censusCode": "003613",
+        "geographicalArea": 1.26,
+        "population": 1133
+      },
+      {
+        "name": "Zaznan",
+        "censusCode": "003619",
+        "geographicalArea": 0.95,
+        "population": 792
+      }
+    ]
+  }
+  
